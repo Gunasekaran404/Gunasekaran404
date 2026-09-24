@@ -1,36 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gunasekaran.R+%F0%9F%91%8B;Cyber+Security+Enthusiast" alt="Typing SVG" />
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gunasekaran404&color=39FF14&style=flat-square&label=Profile+Views)
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gunasekaran.R+%F0%9F%91%8B;Cybersecurity+%7C+Penetration+Testing;CSE+(Cybersecurity)+Student" alt="Typing SVG" />
 
 </div>
 
-### 🛠️ Skills
-Python • Kali Linux • Nmap • Burp Suite • Metasploit
+Cybersecurity-focused B.E. CSE (Cybersecurity) student with hands-on exposure to penetration testing, web security, networking and security tools through internships, projects and CTFs. Actively building practical skills via TryHackMe labs (offensive security, defensive security, password/hash cracking). Looking for opportunities in ethical hacking, pentesting, offensive security or security analysis.
 
-### 📊 GitHub Stats
+## Skills & Tools
+- **Security:** Python, Kali Linux, Nmap, Burp Suite, Metasploit
+- **Dev:** HTML, CSS, React, Next.js, Node.js, Firebase, Supabase (SQL)
+- **Other:** Docker, Git, Prompt Engineering, Cloud Infrastructure
 
-<div align="center">
+## Experience
+- **Cybersecurity Intern** — DLK Software Solutions (Jun–Jul 2026)
+- **Security Intern** — Web App Vulnerability Remediation (Dec 2025–Jan 2026)
+- **Cyber Security Intern** — Jyesta Corporate Entity (Feb–Apr 2026)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gunasekaran404&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunasekaran404&theme=github-dark&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14" height="165"/>
+## Projects
+- **Nex_launcher** — Firebase Realtime DB sync between Android Admin & Windows PC with strict security rules
+- **Social Engineering Awareness Simulator** — Phishing simulation portal for cybersecurity awareness workshops
+- **Freelance Work** — Store billing, online ordering & agency management systems
 
-</div>
+## Leadership & Achievements
+- Co-Organizer & Tech Lead, CYKRYPT (2025 & 2026) — national-level cybersecurity symposium
+- Cognizant Technoverse Hackathon (2026) — led GenAI workflow team
+- Certifications: Cisco Networking Basics & Foundational Hacking | API Pentesting & Bug Bounty 101 | Social Engineering
 
-### 🌐 Connect
+## Education
+B.E. Computer Science & Engineering (Cybersecurity) — Arunai Engineering College, Tamil Nadu (2023–2027)
 
-[
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)
-
-](https://www.linkedin.com/in/gunasekaran-r-8110a6307)
-[
-
-![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)
-
-](mailto:gunas1268@gmail.com)
+## Connect
+- LinkedIn: https://www.linkedin.com/in/gunasekaran-r-8110a6307
+- Email: gunas1268@gmail.com
